@@ -19,6 +19,7 @@ Hello, everyone, before diving into the concepts of Docker and Kubernetes, it is
 13. $env = displays all the environment variables.
 14. $export demo=hello = exporting the variable(i.e if we type 'echo $demo' hello would be displayed)
 15. $kill = to kill a specific process.
-16. $du = disk utility command(disk occupied by the files and directories) but its not in the human readable format , hence use the command { $du -h } for human readable format.<hr>
+16. $du = disk utility command(disk occupied by the files and directories) but its not in the human readable format , hence use the command { $du -h } for human readable format.
+ <hr>
 
 <h3>So these are some of the very basic linux command required to get started , learn while doing.</h3>
